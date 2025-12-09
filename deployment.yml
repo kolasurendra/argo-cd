@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: mycont
-          image: kolasurendra/mytestrisgame:v2
+          image: kolasurendra/mytestrisgame:v1
           ports:
             - containerPort: 3000
